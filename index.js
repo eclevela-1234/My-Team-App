@@ -18,16 +18,16 @@
 
 // promptInfo();
 
-// const App = require('./lib/app');
+const Team = require('./lib/Team');
 
-// new App().start();
+new Team().Start();
 
-const Employee =  require('./lib/Employee');
-const Engineer = require('./lib/Engineer');
+// const Employee =  require('./lib/Employee');
+// const Engineer = require('./lib/Engineer');
 
 
-const bob = new Engineer("bob", 123);
-bob.editRecord( 1, "bob@email.com");
+// const bob = new Engineer("bob", 123);
+// bob.editRecord( 1, "bob@email.com");
 // eliot.id = 1;
 // eliot.email = "eliot@email.com";
 
@@ -36,7 +36,7 @@ bob.editRecord( 1, "bob@email.com");
 // bob.email = "bob@email.com";
 
 // bob = new Employee;
-console.log(bob);
-console.log(bob.getRole());
+// console.log(bob);
+// console.log(bob.getRole());
 // console.log(eliot);
 // console.log(eliot.getRole());
