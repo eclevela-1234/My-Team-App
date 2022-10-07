@@ -23,10 +23,10 @@
 // new App().start();
 
 const Employee =  require('./lib/Employee');
-const Manager = require('./lib/Manager');
+const Engineer = require('./lib/Engineer');
 
 
-const bob = new Manager("bob", 123);
+const bob = new Engineer("bob", 123);
 bob.editRecord( 1, "bob@email.com");
 // eliot.id = 1;
 // eliot.email = "eliot@email.com";
