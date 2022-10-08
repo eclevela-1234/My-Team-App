@@ -13,6 +13,8 @@
 
 [Usage Information](#usage-information)
 
+[Demo Video](#video)
+
 [Contribution Guidelines](#contribution-guidelines)
 
 [Test Instructions](#test-instructions)
@@ -30,6 +32,10 @@ A node environment must be set up in order to install. Simply clone the reposito
 ## Usage Information
 
 Run node index to start the app. After you go through the prompts in the console, a webpage will be generated in the dist directory.
+
+## Video
+[Open link](https://drive.google.com/file/d/1fa_ERaLpCj5Fde9Svz7KlanWZ7WVw4JZ/view) to view a brief [video](https://drive.google.com/file/d/1fa_ERaLpCj5Fde9Svz7KlanWZ7WVw4JZ/view) tutorial of the app's capabilties.
+
 ## Contribution Guidelines
 
 For questions or to contribute please email me.
