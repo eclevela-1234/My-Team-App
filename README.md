@@ -2,7 +2,7 @@
 # My-Team-App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**This project uses object oriented programming to build a simple webpage to organize employees. It also uses test driven development (Jest) to quality check object methods. I completed this assignment out of order - just before the React unit. I think it was a great review because it hardened my understanding on objects and general data movement through file modules, while also forcing me to review basic front end development. All in all, pleased with the outcome. It worked on the first try!!! **
+**This project uses object oriented programming to build a simple webpage to organize employees. It also uses test driven development (Jest) to quality check object methods. I completed this assignment out of order - just before the React unit. I think it was a great review because it hardened my understanding on objects and general data movement through file modules, while also forcing me to review basic front end development. All in all, pleased with the outcome. It worked on the first try!!!**
 
 ![screenshot](./assets/images/screenshot.png)
 
